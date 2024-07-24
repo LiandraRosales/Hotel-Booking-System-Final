@@ -1,0 +1,14 @@
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\bin\Debug\net8.0\HotelBookingSystem2.exe
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\bin\Debug\net8.0\HotelBookingSystem2.deps.json
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\bin\Debug\net8.0\HotelBookingSystem2.runtimeconfig.json
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\bin\Debug\net8.0\HotelBookingSystem2.dll
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\bin\Debug\net8.0\HotelBookingSystem2.pdb
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\HotelBookingSystem2.GeneratedMSBuildEditorConfig.editorconfig
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\HotelBookingSystem2.AssemblyInfoInputs.cache
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\HotelBookingSystem2.AssemblyInfo.cs
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\HotelBookingSystem2.csproj.CoreCompileInputs.cache
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\HotelBookingSystem2.dll
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\refint\HotelBookingSystem2.dll
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\HotelBookingSystem2.pdb
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\HotelBookingSystem2.genruntimeconfig.cache
+E:\COURSE\Projects Liandra\FinalProject\HotelBookingSystem2\HotelBookingSystem2\obj\Debug\net8.0\ref\HotelBookingSystem2.dll
